@@ -1,2 +1,5 @@
-# Tarea2-ANN
-Tarea 2 de Redes Neuronales Artificiales
+# Redes Neuronales Artificiales: Tarea 2
+
+Integrantes:
+- Rodrigo Sepúlveda
+- Sebastián Vergara

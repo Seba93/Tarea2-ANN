@@ -1,3 +1,9 @@
 __pycache__
 .ipynb_checkpoints
 *.pyc
+problema1/data/data_batch_1
+problema1/data/data_batch_2
+problema1/data/data_batch_3
+problema1/data/data_batch_4
+problema1/data/data_batch_5
+problema1/data/test_batch
